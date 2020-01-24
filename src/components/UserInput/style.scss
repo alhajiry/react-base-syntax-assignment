@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.user-input-form {
+  padding: 5px 10px;
+  font-size: 24px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 1px 1px 7px black;
+}
+
+.btn-primary {
+  margin: 20px;
+  padding: 5px 10px;
+  background-color: green;
+  color: white;
+  font-size: 18px;
+  border: none;
+  box-shadow: 1px 1px 4px black;
+  border-radius: 3px;
+}
